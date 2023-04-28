@@ -7,3 +7,14 @@ It also includes two other projects from the 42 Curriculum since they are often 
 
 **ft_printf()**, a printf() clone.
 	
+||libc functions|||additional functions|
+|---|---	   |---|---|---|
+|1|ft_memset	   |--|1|ft_strjoin|
+
+|
+|
+|
+|
+|
+|
+|
